@@ -1,0 +1,227 @@
+# github.com/BertoldVdb/go-ais v0.1.0
+## explicit
+github.com/BertoldVdb/go-ais
+github.com/BertoldVdb/go-ais/aisnmea
+# github.com/adrianmo/go-nmea v1.3.0
+github.com/adrianmo/go-nmea
+# github.com/ajstarks/svgo v0.0.0-20180226025133-644b8db467af
+github.com/ajstarks/svgo
+# github.com/b3nn0/goflying v0.0.0-20210424141101-d83dac8fdc36
+## explicit
+github.com/b3nn0/goflying/ahrs
+github.com/b3nn0/goflying/ahrsweb
+github.com/b3nn0/goflying/bmp280
+github.com/b3nn0/goflying/icm20948
+github.com/b3nn0/goflying/mpu9250
+# github.com/beorn7/perks v1.0.1
+github.com/beorn7/perks/quantile
+# github.com/cespare/xxhash/v2 v2.1.1
+github.com/cespare/xxhash/v2
+# github.com/dustin/go-humanize v1.0.0
+## explicit
+github.com/dustin/go-humanize
+# github.com/erikstmartin/go-testdb v0.0.0-20160219214506-8d10e4a1bae5
+## explicit
+github.com/erikstmartin/go-testdb
+# github.com/felixge/pidctrl v0.0.0-20160307080219-7b13bcae7243
+## explicit
+github.com/felixge/pidctrl
+# github.com/fogleman/gg v1.3.0
+github.com/fogleman/gg
+# github.com/gansidui/geohash v0.0.0-20141019080235-ebe5ba447f34
+## explicit
+github.com/gansidui/geohash
+# github.com/go-fonts/liberation v0.1.1
+github.com/go-fonts/liberation/liberationmonobold
+github.com/go-fonts/liberation/liberationmonobolditalic
+github.com/go-fonts/liberation/liberationmonoitalic
+github.com/go-fonts/liberation/liberationmonoregular
+github.com/go-fonts/liberation/liberationsansbold
+github.com/go-fonts/liberation/liberationsansbolditalic
+github.com/go-fonts/liberation/liberationsansitalic
+github.com/go-fonts/liberation/liberationsansregular
+github.com/go-fonts/liberation/liberationserifbold
+github.com/go-fonts/liberation/liberationserifbolditalic
+github.com/go-fonts/liberation/liberationserifitalic
+github.com/go-fonts/liberation/liberationserifregular
+# github.com/go-latex/latex v0.0.0-20210118124228-b3d85cf34e07
+github.com/go-latex/latex
+github.com/go-latex/latex/ast
+github.com/go-latex/latex/drawtex
+github.com/go-latex/latex/font
+github.com/go-latex/latex/font/ttf
+github.com/go-latex/latex/internal/tex2unicode
+github.com/go-latex/latex/mtex
+github.com/go-latex/latex/mtex/symbols
+github.com/go-latex/latex/tex
+github.com/go-latex/latex/token
+# github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
+github.com/golang/freetype/raster
+github.com/golang/freetype/truetype
+# github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
+github.com/golang/glog
+# github.com/golang/protobuf v1.4.3
+github.com/golang/protobuf/proto
+github.com/golang/protobuf/ptypes
+github.com/golang/protobuf/ptypes/any
+github.com/golang/protobuf/ptypes/duration
+github.com/golang/protobuf/ptypes/timestamp
+# github.com/gorilla/websocket v1.4.2
+github.com/gorilla/websocket
+# github.com/jpoirier/gortlsdr v2.10.0+incompatible
+## explicit
+github.com/jpoirier/gortlsdr
+# github.com/kellydunn/golang-geo v0.7.0
+## explicit
+github.com/kellydunn/golang-geo
+# github.com/kidoman/embd v0.0.0-20170508013040-d3d8c0c5c68d
+## explicit
+github.com/kidoman/embd
+github.com/kidoman/embd/host/all
+github.com/kidoman/embd/host/bbb
+github.com/kidoman/embd/host/generic
+github.com/kidoman/embd/host/rpi
+github.com/kidoman/embd/sensor/bmp180
+github.com/kidoman/embd/util
+# github.com/kylelemons/go-gypsy v1.0.0
+## explicit
+github.com/kylelemons/go-gypsy/yaml
+# github.com/lib/pq v1.10.0
+## explicit
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/mattn/go-sqlite3 v1.14.6
+## explicit
+github.com/mattn/go-sqlite3
+# github.com/matttproud/golang_protobuf_extensions v1.0.1
+github.com/matttproud/golang_protobuf_extensions/pbutil
+# github.com/phpdave11/gofpdf v1.4.2
+github.com/phpdave11/gofpdf
+# github.com/prometheus/client_golang v1.10.0
+## explicit
+github.com/prometheus/client_golang/prometheus
+github.com/prometheus/client_golang/prometheus/internal
+github.com/prometheus/client_golang/prometheus/promhttp
+# github.com/prometheus/client_model v0.2.0
+github.com/prometheus/client_model/go
+# github.com/prometheus/common v0.18.0
+github.com/prometheus/common/expfmt
+github.com/prometheus/common/internal/bitbucket.org/ww/goautoneg
+github.com/prometheus/common/model
+# github.com/prometheus/procfs v0.6.0
+github.com/prometheus/procfs
+github.com/prometheus/procfs/internal/fs
+github.com/prometheus/procfs/internal/util
+# github.com/ricochet2200/go-disk-usage v0.0.0-20150921141558-f0d1b743428f
+## explicit
+github.com/ricochet2200/go-disk-usage/du
+# github.com/skelterjohn/go.matrix v0.0.0-20130517144113-daa59528eefd
+github.com/skelterjohn/go.matrix
+# github.com/stianeikeland/go-rpio/v4 v4.5.1-0.20210920090620-2ab4c0432c52
+## explicit
+github.com/stianeikeland/go-rpio/v4
+# github.com/stratux/serial v0.0.0-19700101022104-87f23b1d3198
+## explicit
+github.com/stratux/serial
+# github.com/takama/daemon v1.0.0
+## explicit
+github.com/takama/daemon
+# github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07
+## explicit
+github.com/tarm/serial
+# github.com/uavionix/serial v0.0.0-19700101022104-87f23b1d3198
+## explicit
+github.com/uavionix/serial
+# github.com/ziutek/mymysql v1.5.4
+## explicit
+github.com/ziutek/mymysql/godrv
+github.com/ziutek/mymysql/mysql
+github.com/ziutek/mymysql/native
+# golang.org/x/image v0.0.0-20210216034530-4410531fe030
+golang.org/x/image/ccitt
+golang.org/x/image/draw
+golang.org/x/image/font
+golang.org/x/image/font/basicfont
+golang.org/x/image/font/gofont/gobold
+golang.org/x/image/font/gofont/gobolditalic
+golang.org/x/image/font/gofont/goitalic
+golang.org/x/image/font/gofont/goregular
+golang.org/x/image/font/opentype
+golang.org/x/image/font/sfnt
+golang.org/x/image/math/f64
+golang.org/x/image/math/fixed
+golang.org/x/image/tiff
+golang.org/x/image/tiff/lzw
+golang.org/x/image/vector
+# golang.org/x/net v0.0.0-20210326220855-61e056675ecf
+## explicit
+golang.org/x/net/bpf
+golang.org/x/net/icmp
+golang.org/x/net/internal/iana
+golang.org/x/net/internal/socket
+golang.org/x/net/ipv4
+golang.org/x/net/ipv6
+golang.org/x/net/websocket
+# golang.org/x/sys v0.0.0-20210324051608-47abb6519492
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+golang.org/x/sys/windows/registry
+golang.org/x/sys/windows/svc
+golang.org/x/sys/windows/svc/mgr
+# golang.org/x/text v0.3.5
+golang.org/x/text/encoding
+golang.org/x/text/encoding/charmap
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/transform
+# gonum.org/v1/plot v0.9.0
+## explicit
+gonum.org/v1/plot
+gonum.org/v1/plot/font
+gonum.org/v1/plot/font/liberation
+gonum.org/v1/plot/palette
+gonum.org/v1/plot/plotter
+gonum.org/v1/plot/plotutil
+gonum.org/v1/plot/text
+gonum.org/v1/plot/tools/bezier
+gonum.org/v1/plot/vg
+gonum.org/v1/plot/vg/draw
+gonum.org/v1/plot/vg/fonts
+gonum.org/v1/plot/vg/vgeps
+gonum.org/v1/plot/vg/vgimg
+gonum.org/v1/plot/vg/vgpdf
+gonum.org/v1/plot/vg/vgsvg
+gonum.org/v1/plot/vg/vgtex
+# google.golang.org/protobuf v1.23.0
+google.golang.org/protobuf/encoding/prototext
+google.golang.org/protobuf/encoding/protowire
+google.golang.org/protobuf/internal/descfmt
+google.golang.org/protobuf/internal/descopts
+google.golang.org/protobuf/internal/detrand
+google.golang.org/protobuf/internal/encoding/defval
+google.golang.org/protobuf/internal/encoding/messageset
+google.golang.org/protobuf/internal/encoding/tag
+google.golang.org/protobuf/internal/encoding/text
+google.golang.org/protobuf/internal/errors
+google.golang.org/protobuf/internal/fieldnum
+google.golang.org/protobuf/internal/fieldsort
+google.golang.org/protobuf/internal/filedesc
+google.golang.org/protobuf/internal/filetype
+google.golang.org/protobuf/internal/flags
+google.golang.org/protobuf/internal/genname
+google.golang.org/protobuf/internal/impl
+google.golang.org/protobuf/internal/mapsort
+google.golang.org/protobuf/internal/pragma
+google.golang.org/protobuf/internal/set
+google.golang.org/protobuf/internal/strs
+google.golang.org/protobuf/internal/version
+google.golang.org/protobuf/proto
+google.golang.org/protobuf/reflect/protoreflect
+google.golang.org/protobuf/reflect/protoregistry
+google.golang.org/protobuf/runtime/protoiface
+google.golang.org/protobuf/runtime/protoimpl
+google.golang.org/protobuf/types/known/anypb
+google.golang.org/protobuf/types/known/durationpb
+google.golang.org/protobuf/types/known/timestamppb

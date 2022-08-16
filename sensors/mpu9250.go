@@ -27,7 +27,7 @@ func NewMPU9250(i2cbus *embd.I2CBus) (*MPU9250, error) {
 		err error
 	)
 
-	mpu, err = mpu9250.NewMPU9250(i2cbus, mpu9250GyroRange, mpu9250AccelRange, mpu9250UpdateFreq, true, false)
+	mpu, err = mpu9250.NewMPU9250(i2cbus, mpu9250GyroRange, mpu9250AccelRange, mpu9250UpdateFreq, false, false)
 	if err != nil {
 		return nil, err
 	}
